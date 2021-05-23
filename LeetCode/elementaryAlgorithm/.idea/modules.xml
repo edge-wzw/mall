@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designProblem/designProblem.iml" filepath="$PROJECT_DIR$/designProblem/designProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamicProgramming/dynamicProgramming.iml" filepath="$PROJECT_DIR$/dynamicProgramming/dynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elementaryAlgorithm.iml" filepath="$PROJECT_DIR$/elementaryAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedList/linkedList.iml" filepath="$PROJECT_DIR$/linkedList/linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sortAndSearch/sortAndSearch.iml" filepath="$PROJECT_DIR$/sortAndSearch/sortAndSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
+    </modules>
+  </component>
+</project>

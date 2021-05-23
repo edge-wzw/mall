@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_html_css/01_html_css.iml" filepath="$PROJECT_DIR$/01_html_css/01_html_css.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_book_static/05_book_static.iml" filepath="$PROJECT_DIR$/05_book_static/05_book_static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_web/05_web.iml" filepath="$PROJECT_DIR$/05_web/05_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_xml/05_xml.iml" filepath="$PROJECT_DIR$/05_xml/05_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_servlet/06_servlet.iml" filepath="$PROJECT_DIR$/06_servlet/06_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_servlet/07_servlet.iml" filepath="$PROJECT_DIR$/07_servlet/07_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_jsp/08_jsp.iml" filepath="$PROJECT_DIR$/08_jsp/08_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_EL_JSTL/09_EL_JSTL.iml" filepath="$PROJECT_DIR$/09_EL_JSTL/09_EL_JSTL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_cookie_session/13_cookie_session.iml" filepath="$PROJECT_DIR$/13_cookie_session/13_cookie_session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWebCode.iml" filepath="$PROJECT_DIR$/JavaWebCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmp/JavaWebCode1.iml" filepath="$PROJECT_DIR$/tmp/JavaWebCode1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book3/book3.iml" filepath="$PROJECT_DIR$/book3/book3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book5/book5.iml" filepath="$PROJECT_DIR$/book5/book5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book5_1/book5_1.iml" filepath="$PROJECT_DIR$/book5_1/book5_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book6/book6.iml" filepath="$PROJECT_DIR$/book6/book6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book_day15/book_day15.iml" filepath="$PROJECT_DIR$/book_day15/book_day15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book_day16/book_day16.iml" filepath="$PROJECT_DIR$/book_day16/book_day16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter/filter.iml" filepath="$PROJECT_DIR$/filter/filter.iml" />
+    </modules>
+  </component>
+</project>

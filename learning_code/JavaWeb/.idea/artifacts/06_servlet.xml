@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="06_servlet">
+    <output-path>$PROJECT_DIR$/out/artifacts/06_servlet</output-path>
+    <root id="root">
+      <element id="archive" name="06_servlet.jar">
+        <element id="module-output" name="06_servlet" />
+      </element>
+    </root>
+  </artifact>
+</component>

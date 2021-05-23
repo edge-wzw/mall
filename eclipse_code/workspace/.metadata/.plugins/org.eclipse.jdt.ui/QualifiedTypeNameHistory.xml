@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="test.Test4_2"/>
+<fullyQualifiedTypeName name="test.Tactorial"/>
+<fullyQualifiedTypeName name="supertest.Account"/>
+<fullyQualifiedTypeName name="bean.Customer"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="service.CustomerList"/>
+<fullyQualifiedTypeName name="java.time.temporal.IsoFields"/>
+<fullyQualifiedTypeName name="util.CMUtility"/>
+<fullyQualifiedTypeName name="ui.CustomerView"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Driver"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="java.sql.Driver"/>
+<fullyQualifiedTypeName name="jdbctest.ConnectionTest"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+</qualifiedTypeNameHistroy>

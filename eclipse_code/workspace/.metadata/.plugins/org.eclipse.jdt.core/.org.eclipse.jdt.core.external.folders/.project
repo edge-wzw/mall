@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link0</name>
+			<type>2</type>
+			<location>E:/Study/Java/尚硅谷/1.尚硅谷全套JAVA教程--基础阶段/尚硅谷_宋红康_JDBC核心技术(2019新版)/3-资料/3-资料/2-驱动/01-MySQL驱动/mysql-connector-java-5.1.7/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>

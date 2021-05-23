@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="six_servlet:war">
+    <output-path>$PROJECT_DIR$/six_servlet/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>six_servlet</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="six_servlet-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="six_servlet:war exploded" />
+    </root>
+  </artifact>
+</component>

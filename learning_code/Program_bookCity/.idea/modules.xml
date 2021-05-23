@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/05_web/05_web1.iml" filepath="$PROJECT_DIR$/05_web/05_web1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Program_bookCity.iml" filepath="$PROJECT_DIR$/Program_bookCity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book_4/book_4.iml" filepath="$PROJECT_DIR$/book_4/book_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book_5/book_5.iml" filepath="$PROJECT_DIR$/book_5/book_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book_static/book_static.iml" filepath="$PROJECT_DIR$/book_static/book_static.iml" />
+    </modules>
+  </component>
+</project>

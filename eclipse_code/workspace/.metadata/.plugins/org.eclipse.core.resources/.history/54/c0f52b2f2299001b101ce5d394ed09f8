@@ -1,0 +1,23 @@
+package jdbctest;
+
+import java.sql.Driver;
+import java.sql.SQLException;
+import java.util.Properties;
+
+import org.junit.Test;
+
+
+public class ConnectionTest1 {
+	@Test
+	public void testConnection() throws SQLException{
+		Driver driver = null ;
+		
+		String url =null;
+		Properties info=null;
+		
+		Connection conn = driver.connect(url, info);
+		
+		System.out.print(conn);
+		
+	}	
+}

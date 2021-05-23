@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function onclickStaticFun() {
+            alert("静态注册事件")
+        }
+
+        window.onload = function () {
+            var btnObj = document.getElementById("button1");
+            btnObj.onclick = function () {
+                alert("动态注册事件1")
+            }
+        }
+
+        // window.onload = function () {
+        //     var b2 = document.getElementsByName("#n1");
+        //     b2.onclick = function () {
+        //         alert("动态注册事件2")
+        //     }
+        // }
+        // window.onload = function () {
+        //     var b3 = document.getElementsByName(".c1");
+        //     b3.onclick = function () {
+        //         alert("动态注册事件3")
+        //     }
+        // }
+
+
+
+    </script>
+</head>
+<body>
+<button onclick="onclickStaticFun()">静态注册</button>
+<button id="button1">动态注册1</button>
+<button name="n1">动态注册2</button>
+<button class="c1">动态注册3</button>
+</body>
+</html>

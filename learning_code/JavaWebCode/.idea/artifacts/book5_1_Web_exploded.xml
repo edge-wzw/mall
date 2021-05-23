@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="book5_1:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/book5_1_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="book5_1/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="book5_1" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib5" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+        function onblurStaticFun() {
+            console.log("onblur 静态注册")
+        }
+
+        window.onload = function () {
+            var blurObj = document.getElementById("password");
+            blurObj.onblur = function () {
+                // console.log("动态注册")
+                alert("动态注册")
+            }
+        }
+
+    </script>
+</head>
+<body>
+用户名:<input type="text" onblur="onblurStaticFun()"></br>
+密码:<input id="password" type="text" onblur="onblurStaticFun()">
+</body>
+</html>
